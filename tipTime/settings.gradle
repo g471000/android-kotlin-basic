@@ -1,0 +1,2 @@
+rootProject.name = "tipTime"
+include ':app'
